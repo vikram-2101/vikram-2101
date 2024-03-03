@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vikram-2101.netlify.app/](https://vikram-2101.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, TAILWIND CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, TAILWIND CSS, JAVASCRIPT, DATA STRUCTURE AND ALGORITHM**
 
 - 📫 How to reach me **vk8969338090@gmail.com**
 
