@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram-2101" alt="vikram-2101" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🔭 I’m currently working on new and innovative frontened projects
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram-2101" alt="vikram-2101" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+- 🔭 I’m currently working on new and innovative Full Stack projects
 
 - 🌱 I’m currently learning Devops
 
 - 👯 I’m looking to collaborate on projects which solve real world problems.
-
-- 👨‍💻 All of my projects are available at [https://vikram-2101.netlify.app/](https://vikram-2101.netlify.app/)
 
 - 💬 Ask me about **MERN Stack, Devops, DATA STRUCTURE AND ALGORITHM**
 
